@@ -1,2 +1,1 @@
-# Securing-Resume-Static-Website-using-Cloudflare
-Cloudflare Secure Resume Website 
+# Cloudflare Secure Resume Website 
