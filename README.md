@@ -1,20 +1,27 @@
 # Cloudflare Secure Resume Website 
 
 <h2>Description</h2>
-In this project I created and configured a simple static website using Amazon S3. The primary objectives involved creating an S3 bucket, ensuring public access, uploading index and error file, and then applying a bucket policy. This project demonstrated the creation of a cost-efficient website hosting solution for static content on AWS S3, emphasizing proper configuration and enabling public access.
+In this project, I have successfully developed and deployed a static resume website, leveraging the robust capabilities of AWS S3 and the advanced domain and security features of Cloudflare. The journey began with coding the website from scratch, creating an intuitive and visually appealing interface to showcase my professional journey.
 
+To host the website, I chose Amazon S3 for its reliability and ease of use. I configured an S3 bucket to make it publicly accessible, ensuring my resume was available online. The integration with Cloudflare started with registering a custom domain name, providing a professional touch to my online presence.
+
+A crucial aspect of this project was ensuring website security and performance. I accomplished this by setting up a client certificate with Cloudflare, enabling the use of their CDN services. This not only secured my site but also optimized content delivery. The process involved redirecting my domain to Cloudflare, which then securely connected it to my S3 bucket. This setup ensured that visitors to my site enjoyed a secure, fast, and seamless browsing experience.
+
+Through this project, I have demonstrated my skills in web development, cloud services, and network security, creating a professional online resume that is both secure and scalable.
 <br />
 
 
 <h2>Tools Used</h2>
 
-- <b>S3</b> 
-- <b>Bucket Policies</b>
-- <b>JSON Syntax</b>
+- <b>AWS S3</b> 
+- <b>Cloudflare Domain Registrar/ DNS (Domain Name Service</b>
+- <b>Cloudflare Client Certificates</b>
+- <b>Cloudflare CDN (Content Delivery Netowkr)</b>
 
 <h2>Environments Used </h2>
 
 - <b>AWS</b>
+- <b>Cloudflare</b>
 
 <h2>Project walk-through:</h2>
 
