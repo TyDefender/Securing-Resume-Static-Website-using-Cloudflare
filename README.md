@@ -26,27 +26,27 @@ Through this project, I have demonstrated my skills in web development, cloud se
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch S3 Bucket with Custom HTML, CSS, Javascript Coding (with unique name) : <br/>
+Launch S3 Bucket with Custom HTML, CSS, Javascript Coding (with unique name): <br/>
 <img src="https://i.imgur.com/3XJxeTP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Unblock Public Access:  <br/>
+Create Domain Name with Cloudflare:  <br/>
 <img src="https://i.imgur.com/91yDfPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Upload index and error files: <br/>
+Change Name Servers to Direct to Cloudflare: <br/>
 <img src="https://i.imgur.com/B1VJodj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enable Static Hosting:  <br/>
+Use Cloudflare to get Client Certificate Securing Site:  <br/>
 <img src="https://i.imgur.com/Meky0c4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Write Custom Bucket Policy:  <br/>
+Redirect Traffic from Domain to CDN then Securly Connecting to Resume Site:  <br/>
 <img src="https://i.imgur.com/OLjVWL0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Publicly Accessible Static Website:  <br/>
+Secure Site with Cloudflare:  <br/>
 <img src="https://i.imgur.com/G9O1gNw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
