@@ -26,7 +26,7 @@ Through this project, I have demonstrated my skills in web development, cloud se
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch S3 Bucket (with unique name) : <br/>
+Launch S3 Bucket with Custom HTML, CSS, Javascript Coding (with unique name) : <br/>
 <img src="https://i.imgur.com/3XJxeTP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
