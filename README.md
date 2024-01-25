@@ -33,7 +33,7 @@ Launch S3 Bucket with Custom HTML, CSS, Javascript Coding (with unique name): <b
 <br />
 <br />
 Create Domain Name with Cloudflare:  <br/>
-<img src="https://i.imgur.com/91yDfPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FCvDdVZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Change Name Servers to Direct to Cloudflare: <br/>
@@ -45,7 +45,6 @@ Use Cloudflare to get Client Certificate Securing Site:  <br/>
 <br />
 <br />
 Redirect Traffic from Domain to CDN then Securly Connecting to Resume Site:  <br/>
-<img src="https://i.imgur.com/OLjVWL0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Secure Site with Cloudflare:  <br/>
