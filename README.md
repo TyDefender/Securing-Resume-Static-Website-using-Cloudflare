@@ -8,6 +8,8 @@ To host the website, I chose Amazon S3 for its reliability and ease of use. I co
 A crucial aspect of this project was ensuring website security and performance. I accomplished this by setting up a client certificate with Cloudflare, enabling the use of their CDN services. This not only secured my site but also optimized content delivery. The process involved redirecting my domain to Cloudflare, which then securely connected it to my S3 bucket. This setup ensured that visitors to my site enjoyed a secure, fast, and seamless browsing experience.
 
 Through this project, I have demonstrated my skills in web development, cloud services, and network security, creating a professional online resume that is both secure and scalable.
+
+Check out the site! Tydefender.com
 <br />
 
 
@@ -27,7 +29,7 @@ Through this project, I have demonstrated my skills in web development, cloud se
 
 <p align="center">
 Launch S3 Bucket with Custom HTML, CSS, Javascript Coding (with unique name): <br/>
-<img src="https://i.imgur.com/3XJxeTP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8OpA5mZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create Domain Name with Cloudflare:  <br/>
@@ -35,11 +37,11 @@ Create Domain Name with Cloudflare:  <br/>
 <br />
 <br />
 Change Name Servers to Direct to Cloudflare: <br/>
-<img src="https://i.imgur.com/B1VJodj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9KrQyVP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Use Cloudflare to get Client Certificate Securing Site:  <br/>
-<img src="https://i.imgur.com/Meky0c4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CWx5uJh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Redirect Traffic from Domain to CDN then Securly Connecting to Resume Site:  <br/>
@@ -47,7 +49,7 @@ Redirect Traffic from Domain to CDN then Securly Connecting to Resume Site:  <br
 <br />
 <br />
 Secure Site with Cloudflare:  <br/>
-<img src="https://i.imgur.com/G9O1gNw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/j4xqShb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
